@@ -1,6 +1,6 @@
 # SeeingTheMusic
 
-SeeingTheMusic is a audio visualization tool for EDM (electronic dance music). 
+SeeingTheMusic is an audio visualization tool for EDM (electronic dance music). 
 
 ## Requirements:
 
