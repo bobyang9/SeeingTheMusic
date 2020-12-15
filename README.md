@@ -6,12 +6,15 @@ SeeingTheMusic is an audio visualization tool for EDM (electronic dance music).
 
 ```
 python 3.7.5
-ffmpeg 4.2.2
 matplotlib 3.2.1
 numpy 1.16.4
 scipy 1.5.2
 celluloid 0.2.0
+ffmpeg-python 0.2.0
+
+ffmpeg 4.2.2
 ```
+Important note: ffmpeg is downloaded on the user's machine. ffmpeg-python is the python library that connects to ffmpeg.
 
 ## Usage:
 
