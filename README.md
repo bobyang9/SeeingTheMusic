@@ -1,3 +1,5 @@
+![Logo of this audio visualization tool](https://github.com/bobyang9/SeeingTheMusic/blob/main/logo.png)
+
 # SeeingTheMusic
 
 SeeingTheMusic is an audio visualization tool for EDM (electronic dance music). 
